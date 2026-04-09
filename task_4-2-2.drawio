@@ -49,6 +49,9 @@
         <mxCell id="74E-zSeHNdgYNwIxQeHU-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;i ≤ N ?&lt;/span&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="80" width="80" x="374" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="74E-zSeHNdgYNwIxQeHU-29" edge="1" parent="1" source="74E-zSeHNdgYNwIxQeHU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="74E-zSeHNdgYNwIxQeHU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="74E-zSeHNdgYNwIxQeHU-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="500" y="380" as="geometry" />
         </mxCell>
@@ -78,6 +81,12 @@
         </mxCell>
         <mxCell id="74E-zSeHNdgYNwIxQeHU-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="i=i+1" vertex="1">
           <mxGeometry height="30" width="60" x="220" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="74E-zSeHNdgYNwIxQeHU-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="660" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="74E-zSeHNdgYNwIxQeHU-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="конец" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="395" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
